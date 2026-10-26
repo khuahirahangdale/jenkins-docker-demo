@@ -1,1 +1,1 @@
-print("Hello from Jenkins and Docker!")
+print("Docker build triggered automatically by GitHub!")
